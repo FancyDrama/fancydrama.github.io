@@ -1,4 +1,4 @@
-# Updated at 2026/03/26 09:48:07
+# Updated at 2026/03/27 10:43:09
 
 # Admob
 google.com,pub-3554194302092206,DIRECT,f08c47fec0942fa0
@@ -537,3 +537,6 @@ yeahmobi.com,5135535,RESELLER
 # PangleGlobal
 pangleglobal.com,54852,DIRECT
 pubmatic.com,161490,RESELLER,5d62403b186f2ace
+
+# Facebook
+facebook.com,155679435141174,DIRECT,c3e20eee3f780d68
